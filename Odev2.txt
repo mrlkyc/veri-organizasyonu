@@ -1,0 +1,10 @@
+Bir insanın bir kalbi vardır
+Bir ürün birden fazla kategoriye sahip olabilir
+Bir kategoride birden fazla ürün olabilir
+Bir kitabın bir yazarı vardır
+Bir kişinin bir pasaportu vardır
+Bir market birden fazla ürün içerebilir
+Bir kapının bir anahtarı vardır
+Bir hasta birden fazla doktora gidebilir
+Bir okulun bir müdürü vardır
+Bir arabanın birden fazla kapısı olabilir
